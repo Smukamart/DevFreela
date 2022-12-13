@@ -10,6 +10,8 @@
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/DevFreela.Core.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/DevFreela.Core.pdb
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/obj/Debug/net6.0/DevFreela.API.csproj.AssemblyReference.cache
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/obj/Debug/net6.0/DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/obj/Debug/net6.0/DevFreela.API.AssemblyInfoInputs.cache
@@ -25,5 +27,3 @@
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/obj/Debug/net6.0/ref/DevFreela.API.dll
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/obj/Debug/net6.0/DevFreela.API.pdb
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/obj/Debug/net6.0/DevFreela.API.genruntimeconfig.cache
-/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/DevFreela.Core.dll
-/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.API/bin/Debug/net6.0/DevFreela.Core.pdb

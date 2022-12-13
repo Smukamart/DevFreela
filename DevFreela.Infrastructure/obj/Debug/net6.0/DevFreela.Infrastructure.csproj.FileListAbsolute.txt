@@ -1,0 +1,5 @@
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.csproj.AssemblyReference.cache
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.AssemblyInfoInputs.cache
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.AssemblyInfo.cs
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
