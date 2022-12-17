@@ -1,0 +1,17 @@
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.csproj.AssemblyReference.cache
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.AssemblyInfoInputs.cache
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.AssemblyInfo.cs
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Application.deps.json
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Application.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/ref/DevFreela.Application.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Application.pdb
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Core.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Infrastructure.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Core.pdb
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/bin/Debug/net6.0/DevFreela.Infrastructure.pdb
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.csproj.CopyComplete
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/ref/DevFreela.Application.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.pdb

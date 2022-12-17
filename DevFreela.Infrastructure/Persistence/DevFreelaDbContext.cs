@@ -1,13 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using DevFreela.Core.Entities;
 
 namespace DevFreela.Infrastructure.Persistence
 {
-    public class DevfreelaDbContext
+    public class DevFreelaDbContext
     {
-        public DevfreelaDbContext()
+        public DevFreelaDbContext()
         {
             Projects = new List<Project>
             {
@@ -32,6 +29,7 @@ namespace DevFreela.Infrastructure.Persistence
         }
         public List<Project> Projects { get; set; }
         public List<User> Users { get; set; }
-        public List<Skills> Skill { get; set; }
+        public List<Skill> Skills { get; set; }
+        public List<ProjectComment> ProjectComments { get; set; }
     }
 }

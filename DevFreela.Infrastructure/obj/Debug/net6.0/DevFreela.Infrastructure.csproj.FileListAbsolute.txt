@@ -3,3 +3,13 @@
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.AssemblyInfoInputs.cache
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.AssemblyInfo.cs
 /home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/bin/Debug/net6.0/DevFreela.Infrastructure.deps.json
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/bin/Debug/net6.0/DevFreela.Infrastructure.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/bin/Debug/net6.0/ref/DevFreela.Infrastructure.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/bin/Debug/net6.0/DevFreela.Infrastructure.pdb
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/bin/Debug/net6.0/DevFreela.Core.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/bin/Debug/net6.0/DevFreela.Core.pdb
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.csproj.CopyComplete
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/ref/DevFreela.Infrastructure.dll
+/home/samuel/Documents/Visual Studio/workstation2022/CSharp/DevFreela/DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.pdb
